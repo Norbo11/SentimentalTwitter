@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tran",
+				"transitionsFrom"
+			],
+			[
+				"un",
+				"unifyPairs"
+			],
+			[
+				"unify",
+				"unifyPairs"
+			],
+			[
+				"uni",
+				"unifyPairs"
+			],
+			[
+				"TE",
+				"TErr"
+			],
+			[
+				"opt",
+				"optimizeSharables"
+			],
+			[
+				"BDD",
+				"BDDNode"
+			],
+			[
+				"ge",
+				"get_context_data"
+			],
+			[
+				"left",
+				"leftBudget"
+			],
+			[
+				"name",
+				"names_split"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"names_file",
+				"names_file_ocr"
+			],
+			[
+				"bi",
+				"buildOpApp"
+			],
+			[
+				"build",
+				"buildOpApp"
+			],
+			[
+				"bu",
+				"buildOpApp"
+			],
+			[
+				"is",
+				"isDigit"
+			],
+			[
+				"string",
+				"stringToInt"
+			],
+			[
+				"mul",
+				"multiWordSearch"
+			],
+			[
+				"multiw",
+				"multiWordSearch"
+			],
+			[
+				"multW",
+				"multiWordResults"
+			],
+			[
+				"Ga",
+				"GadgetSerializer"
+			],
+			[
+				"WE",
+				"WeaponSerializer"
+			],
+			[
+				"V",
+				"VehicleSerializer"
+			],
+			[
+				"Loca",
+				"LocationSerializer"
+			],
+			[
+				"from",
+				"fromInteger"
+			],
+			[
+				"sort",
+				"sortRequests"
+			],
+			[
+				"prob_",
+				"prob_line"
+			],
+			[
+				"prob",
+				"prob_cross"
+			],
+			[
+				"ProbR",
+				"ProbRules"
+			],
+			[
+				"random",
+				"RandomGen"
+			],
+			[
+				"replace",
+				"replaceWord"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2036,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Norbz/Documents/Dev/SentimentalTwitter/SentimentalTwitter",
+		"/Users/Norbz/Documents/Dev/SentimentalTwitter/SentimentalTwitter/main",
+		"/Users/Norbz/Documents/Dev/SentimentalTwitter/SentimentalTwitter/SentimentalTwitter"
+	],
+	"file_history":
+	[
+		"/Users/Norbz/Documents/Dev/SentimentalTwitter/untitled.html",
+		"/Users/Norbz/Documents/sdk/samples/hello-myo.xcodeproj/project.pbxproj",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/Java/Java_Turtle_Interpreter_np1815/testcases/inputs/turtle_normal.dat",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/Java/Java_Turtle_Interpreter_np1815/testcases/outputs/turtle_cluster_1.res",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/Java/javapictureprocessing_np1815/.classpath",
+		"/Users/Norbz/Downloads/11.1_173_quartus_free_linux.sh",
+		"/private/var/folders/1b/g3vc6bf54vgb0f56y797b6xw0000gn/T/com.microsoft.Outlook/Outlook Temp/Exam.hs",
+		"/Users/Norbz/Documents/Imperial/Exercises/Regular Expressions and Finite Automata/template.hs",
+		"/Users/Norbz/Documents/Imperial/Exercises/Polymorphic Type Inference/template.hs",
+		"/Users/Norbz/Documents/Imperial/Exercises/Binary Decision Diagrams/template.hs",
+		"/Users/Norbz/Desktop/challenge2.hs",
+		"/Users/Norbz/Desktop/challenge1.hs",
+		"/Applications/challenge1.hs",
+		"/private/var/folders/1b/g3vc6bf54vgb0f56y797b6xw0000gn/T/com.microsoft.Outlook/Outlook Temp/dragons/IOUtil.java",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/admin.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/api/views.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/views.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/base.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/head.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/home.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/budget.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/budget.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/ReceiptScanner/settings.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/item.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/register.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/signin.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/statistics.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates/main/store.html",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/urls.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/ReceiptScanner/urls.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/api/models.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/api/serializers.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/models.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/api/admin.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/api/urls.py",
+		"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/tests.py",
+		"/Users/Norbz/Documents/Dev/spyplanner/spyplanner/urls.py",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/Java/PawnRace/src/pawnrace/style.css",
+		"/Users/Norbz/synergy_config_norbo",
+		"/Users/Norbz/Documents/Dev/Python/GSA Challenge/2 Down - Pretty much hello world.py",
+		"/Users/Norbz/Documents/Imperial/Coursework/Assessed/Mathematical Methods Coursework/Mathematical Methods.tex",
+		"/Users/Norbz/Documents/Python/GSA Challenge/2 Down - Pretty much hello world",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/Haskell/haskellrecursion_np1815/Tests.hs",
+		"/Users/Norbz/Downloads/AMS/journal.tex",
+		"/private/var/folders/1b/g3vc6bf54vgb0f56y797b6xw0000gn/T/com.microsoft.Outlook/Outlook Temp/Trees[1].hs",
+		"/Users/Norbz/Documents/Imperial/Exercises/Practice Test - Operator Precedence Parsing/operators.hs",
+		"/private/var/folders/1b/g3vc6bf54vgb0f56y797b6xw0000gn/T/com.microsoft.Outlook/Outlook Temp/opparsing[1].hs",
+		"/Users/Norbz/Dev/spyplanner/api/models.py",
+		"/Users/Norbz/.profile",
+		"/Users/Norbz/Dev/spyplanner/spyplanner/urls.py",
+		"/Users/Norbz/Dev/spyplanner/manage.py",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/haskellcalculus_np1815/Calculus.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/Assessed/Combinatorial Circuit Design/hardware.txt",
+		"/Users/Norbz/Documents/Imperial/Coursework/Assessed/Combinatorial Circuit Design/hardware_maxterm.txt",
+		"/Users/Norbz/Documents/Imperial/Exercises/Optimal Scheduling/optimalscheduling.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/Assessed/Combinatorial Circuit Design/wiring.xml",
+		"/Users/Norbz/Documents/apple details",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/haskelllsystems_np1815/LSystems.hs",
+		"/Users/Norbz/Documents/trees.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/haskelllsystems_np1815/Tests.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/haskelllsystems_np1815/IC/Graphics.hs",
+		"/Users/Norbz/Desktop/routes",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/haskellmacroprocessor_np1815/MP.hs",
+		"/Users/Norbz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Norbz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Norbz/Documents/Imperial/Coursework/Unassessed/haskellmacroprocessor_np1815/Tests.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/haskellmacroprocessor_np1815/MP.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/haskellrecursion_np1815/Recursion.hs",
+		"/Users/Norbz/Documents/Imperial/Coursework/haskellrecursion_np1815/Tests.hs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Norbz/Documents/Dev/receiptScanner/ReceiptScanner/main/templates",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href=\"(.*)\\.html\"",
+			".js\"",
+			"css\"",
+			"{{ STATIC_URL }}",
+			"{{ STATIC_URL }}/main/js",
+			"js/",
+			"css/",
+			"Table.",
+			"+",
+			"k",
+			"diff (exp[1|2]?)",
+			" 1.0,",
+			"\\8217",
+			"rules",
+			"angle",
+			"\\t",
+			"start",
+			"x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"href=\"$1\"",
+			"href=\"$1.html\"",
+			".js\" %}\"",
+			"\" %}\"",
+			"{% static \"",
+			"{{ STATIC_URL }}/main/js/",
+			"{{ STATIC_URL }}/main/js",
+			"{{ STATIC_URL }}/main/",
+			"",
+			"++",
+			"diff $1 var",
+			"",
+			"    ",
+			"n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SentimentalTwitter.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
